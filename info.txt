@@ -1,0 +1,8 @@
+class*/keyword/* Concat
+{
+	public*/access modifier/* static*/no need to create an onject/* void main */jvm calls main/*(String args[])*/command line arguments/*
+{
+  System*/class/*.out.println*/function/method/*("My name is : Lakshya"+" College name is :UPES"+" Roll No is:500069066");
+	
+	}
+}
